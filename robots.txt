@@ -1,0 +1,16 @@
+# Robots.txt for Agentic Energy
+# https://agenticnrg.com/
+
+# Allow all search engines to index the site
+User-agent: *
+Allow: /
+
+# Disallow any admin or private areas (add as needed)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Crawl-delay (optional, uncomment if needed)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://agenticnrg.com/sitemap.xml
